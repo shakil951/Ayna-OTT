@@ -12,8 +12,7 @@
 ---
 
 ## 📂 Playlist Links (Raw)
-* **M3U Playlist:** [ayna_channels.m3u]([https://raw.githubusercontent.com/shakil951/ayna/main/ayna_channels.m3u](https://raw.githubusercontent.com/shakil951/Ayna-OTT/refs/heads/main/ayna_channels.m3u)
-* **JSON Data:** [ayna_channels.json]([https://raw.githubusercontent.com/shakil951/ayna/main/ayna_channels.](https://raw.githubusercontent.com/shakil951/Ayna-OTT/refs/heads/main/ayna_channelsjson)
+* **M3U Playlist:** [ayna_channels.m3u]([[https://raw.githubusercontent.com/shakil951/ayna/main/ayna_channels.m3u](https://raw.githubusercontent.com/shakil951/Ayna-OTT/refs/heads/main/ayna_channels.m3u)](https://raw.githubusercontent.com/shakil951/Ayna-OTT/refs/heads/main/ayna_channels.m3u)
 
 ---
 
