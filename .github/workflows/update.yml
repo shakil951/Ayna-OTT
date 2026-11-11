@@ -3,7 +3,7 @@ name: Auto Generate Ayna Playlist
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *' # প্রতি ১ ঘণ্টা পর পর অটোমেটিক আপডেট হবে (চাইলে রাখতে পারেন বা বাদ দিতে পারেন)
+    - cron: '0 * * * *' 
 
 permissions:
   contents: write
@@ -21,7 +21,7 @@ jobs:
       - name: Checkout Private Script Repository
         uses: actions/checkout@v4
         with:
-          repository: shakil951/ayna-pvt-code  # আপনার আইনার প্রাইভেট রিপোজিটরির নাম এখানে দেবেন
+          repository: shakil951/ayna-pvt-code  # আপনার আইনার প্রাইভেট রিপোজিটরির নাম
           token: ${{ secrets.PAT_TOKEN }}
           path: private_script_dir
 
@@ -50,6 +50,6 @@ jobs:
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add ayna_channels.json ayna_channels.m3u
+          git add ayna_channels.json ayna_channels.m3u || true
           git commit -m "Auto Update Ayna Playlist: $(TZ='Asia/Dhaka' date +'%Y-%m-%d %r')" || exit 0
           git push
