@@ -3,8 +3,8 @@
 # Playlist Name     : Farabi Ayna OTT Collection
 # Developer         : FARABI
 # Telegram Channel  : https://t.me/farabi_hub_bd
-# Last Updated      : 11-Nov-2026 11:53:03 AM (+06)
-# Total Channels    : 182
+# Last Updated      : 11-Nov-2026 11:58:16 AM (+06)
+# Total Channels    : 181
 # ====================================================
 
 #EXTINF:-1 tvg-id="01a1aa1f-9605-7019-975d-355265a9aa2d" tvg-name="Hum TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-11-05/images_868f4d3f6f0045f3563707cd0187548f_playmist_hum_tv_logo.jpg" group-title="Channels",Hum TV
@@ -65,6 +65,8 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="019efa45-e069-7f80-a70f-34d4f01b80ea" tvg-name="VTV USA" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_48a2f0e255841fe6c7d77b642dd9a9b1_playmist_vtv_usa_400x400.jpg" group-title="English",VTV USA
 https://tvsen7.aynaott.com/vtvusa/index.m3u8
+#EXTINF:-1 tvg-id="019de785-3953-7390-925e-0b52e8d2cf6b" tvg-name="Channel I" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-01/images_99c9ba1977777337bdc037f79ed921ea_playmist_channel_i_400x400.jpg" group-title="Channels",Channel I
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 #EXTINF:-1 tvg-id="019de785-3957-788f-a366-97dc52d1eced" tvg-name="Bangla Vision" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_15c72a2cb794593278c9e7efe4df32d5_playmist_bangla_vision_400x400.jpg" group-title="Bangla",Bangla Vision
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 #EXTINF:-1 tvg-id="019de785-39f3-7ee4-82c5-582a3f749674" tvg-name="DD Sports" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c3b7a42d7ce8dd21ce151178bca8715d_playmist_dd_sports_400x400.jpg" group-title="Channels",DD Sports
@@ -83,8 +85,6 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 https://tvsen6.aynaott.com/Xehy3ZqZ/index.m3u8
 #EXTINF:-1 tvg-id="019efa45-d907-74c0-b05a-87e38a871d8b" tvg-name="Bein Sports 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_02eb54f07cbc8c01db3c545aca60d37c_playmist_4g.jpg" group-title="Football",Bein Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-id="019de785-39e0-76f0-9bff-68df0dc12665" tvg-name="TSN 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_d165c628a0db9286da3914ca916a4971_playmist_tsn_1400x400.jpg" group-title="Channels",TSN 1
-https://tvsen7.aynaott.com/tsn1/index.m3u8
 #EXTINF:-1 tvg-id="019de785-3a34-7633-bc80-6c35f6723bca" tvg-name="PBS Kids" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_ab1b8e6f265620cd2720adc23bd2ba0e_playmist_pbs_kids_400x400.jpg" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="019de785-3a28-7902-88ee-0f42afbc7d50" tvg-name="TVCARiB Kids & Teens" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_fbef127efb1f4148d2730e59a78a9662_playmist_tvcarib_kids_teens400x400.jpg" group-title="Channels",TVCARiB Kids & Teens
@@ -221,8 +221,6 @@ https://tvsen6.aynaott.com/BahrainSports2/index.m3u8
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="019de785-39a9-777d-a085-fd61ebb8ce7d" tvg-name="Rplus Gold" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_3834dcdc1e6caed45e648413f0abe08a_playmist_rplus_gold_logo400x400.jpg" group-title="Bangla",Rplus Gold
 https://tvsen6.aynaott.com/pwVHY93j/index.m3u8
-#EXTINF:-1 tvg-id="019de785-3a0f-7a8d-aa40-1bc1d60c9817" tvg-name="TNT Sport 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg" group-title="Bangla",TNT Sport 1
-https://tvsen5.aynaott.com/asdfadsf/index.m3u8
 #EXTINF:-1 tvg-id="019de785-3bc1-763c-b24e-c328f7336861" tvg-name="HISTORY TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5996545c3aa998805349c10a3677c877_playmist_history_channel_400x400.jpg" group-title="Bangla",HISTORY TV
 https://tvsen3.aynaott.com/np3JstRE/index.m3u8
 #EXTINF:-1 tvg-id="019de785-3bd5-71a5-8724-86b9aae512ae" tvg-name="Food Network" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_7965b8693481f770bcd710f96cc6ea47_playmist_food_network_400x400.jpg" group-title="Bangla",Food Network

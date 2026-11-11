@@ -1,6 +1,6 @@
 {
-    "updated_at": "2026-11-11T11:53:03.951826+06:00",
-    "total_channels": 182,
+    "updated_at": "2026-11-11T11:58:16.873437+06:00",
+    "total_channels": 181,
     "channels": [
         {
             "id": "01a1aa1f-9605-7019-975d-355265a9aa2d",
@@ -206,6 +206,13 @@
             "category": "English"
         },
         {
+            "id": "019de785-3953-7390-925e-0b52e8d2cf6b",
+            "name": "Channel I",
+            "link": "https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-01/images_99c9ba1977777337bdc037f79ed921ea_playmist_channel_i_400x400.jpg",
+            "category": "Channels"
+        },
+        {
             "id": "019de785-3957-788f-a366-97dc52d1eced",
             "name": "Bangla Vision",
             "link": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8",
@@ -267,13 +274,6 @@
             "link": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_02eb54f07cbc8c01db3c545aca60d37c_playmist_4g.jpg",
             "category": "Football"
-        },
-        {
-            "id": "019de785-39e0-76f0-9bff-68df0dc12665",
-            "name": "TSN 1",
-            "link": "https://tvsen7.aynaott.com/tsn1/index.m3u8",
-            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_d165c628a0db9286da3914ca916a4971_playmist_tsn_1400x400.jpg",
-            "category": "Channels"
         },
         {
             "id": "019de785-3a34-7633-bc80-6c35f6723bca",
@@ -749,13 +749,6 @@
             "name": "Rplus Gold",
             "link": "https://tvsen6.aynaott.com/pwVHY93j/index.m3u8",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_3834dcdc1e6caed45e648413f0abe08a_playmist_rplus_gold_logo400x400.jpg",
-            "category": "Bangla"
-        },
-        {
-            "id": "019de785-3a0f-7a8d-aa40-1bc1d60c9817",
-            "name": "TNT Sport 1",
-            "link": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8",
-            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg",
             "category": "Bangla"
         },
         {
