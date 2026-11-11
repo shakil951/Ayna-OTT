@@ -3,7 +3,7 @@ name: Auto Generate Ayna Playlist
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *' # প্রতি ১ ঘণ্টা পর পর অটোমেটিক আপডেট হবে
+    - cron: '0 * * * *' # প্রতি ১ ঘণ্টা পর পর অটোমেটিক আপডেট হবে (চাইলে রাখতে পারেন বা বাদ দিতে পারেন)
 
 permissions:
   contents: write
