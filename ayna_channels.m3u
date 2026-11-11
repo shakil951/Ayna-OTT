@@ -1,0 +1,123 @@
+#EXTM3U
+# ====================================================
+# Playlist Name     : Farabi Ayna OTT Collection
+# Developer         : FARABI
+# Telegram Channel  : https://t.me/farabi_hub_bd
+# Last Updated      : 11-Nov-2026 11:14:43 AM (+06)
+# Total Channels    : 57
+# ====================================================
+
+#EXTINF:-1 tvg-id="01a1aa1f-9605-7019-975d-355265a9aa2d" tvg-name="Hum TV" tvg-logo="" group-title="Ayna OTT Live",Hum TV
+{'url': 'https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="01a1354e-5a92-70b0-b6d5-9a089d27c2c7" tvg-name="Willow Sports 2" tvg-logo="" group-title="Ayna OTT Live",Willow Sports 2
+{'url': 'https://tvsen7.aynaott.com/Sports1/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="01a11291-2c1a-72fb-bf2d-bf03de6e974d" tvg-name="Sportv" tvg-logo="" group-title="Ayna OTT Live",Sportv
+{'url': 'https://tvsen7.aynaott.com/shagor-backup/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019f9d1e-903a-70f7-b217-aabdbdc97163" tvg-name="Channel 52" tvg-logo="" group-title="Ayna OTT Live",Channel 52
+{'url': 'https://tvsen6.aynaott.com/channel52/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019f4169-db74-7378-a418-b462842662d0" tvg-name="And Pictures HD" tvg-logo="" group-title="Ayna OTT Live",And Pictures HD
+{'url': 'https://tvsen6.aynaott.com/andpictureshd/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019f401f-3897-7291-8783-ed9b4301df6e" tvg-name="Pitaara TV" tvg-logo="" group-title="Ayna OTT Live",Pitaara TV
+{'url': 'https://tvsen6.aynaott.com/pitaara/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019f400c-f681-70a8-a70f-9858e64716be" tvg-name="Amc" tvg-logo="" group-title="Ayna OTT Live",Amc
+{'url': 'https://tvsen6.aynaott.com/amc/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019f2cfa-a46a-708d-9eac-b0b6b4a4733d" tvg-name="HiDost" tvg-logo="" group-title="Ayna OTT Live",HiDost
+{'url': 'https://tvsen6.aynaott.com/6XDrdRHa/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019f2cd2-d14d-7057-9d30-55cfb742995a" tvg-name="Colors Bangla" tvg-logo="" group-title="Ayna OTT Live",Colors Bangla
+{'url': 'https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019efa45-ef0a-7e72-86c1-af820f1f22e7" tvg-name="ATN Bangla" tvg-logo="" group-title="Ayna OTT Live",ATN Bangla
+{'url': 'https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019efa45-ebae-74d0-80f3-0aaa66928bae" tvg-name="Dubai Sports 1" tvg-logo="" group-title="Ayna OTT Live",Dubai Sports 1
+{'url': 'https://tvsen6.aynaott.com/dubaisports1/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019efa45-eb97-7633-b4b2-682cef878a7e" tvg-name="Talk Sport" tvg-logo="" group-title="Ayna OTT Live",Talk Sport
+{'url': 'https://tvsen6.aynaott.com/talkSPORT/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019efa45-eb56-7241-b7d5-ebb6c8209ebb" tvg-name="Marquee Sports Network" tvg-logo="" group-title="Ayna OTT Live",Marquee Sports Network
+{'url': 'https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019efa45-eb40-78e2-b686-754a26ad8118" tvg-name="More Then Sports TV" tvg-logo="" group-title="Ayna OTT Live",More Then Sports TV
+{'url': 'https://tvsen6.aynaott.com/mtstv/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019efa45-ea1e-7e50-b2fd-32ea3e75ec8c" tvg-name="BTV NATIONAL HD" tvg-logo="" group-title="Ayna OTT Live",BTV NATIONAL HD
+{'url': 'https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-39a3-74dd-8ef6-fbe0295e1222" tvg-name="kolkata TV" tvg-logo="" group-title="Ayna OTT Live",kolkata TV
+{'url': 'https://tvsen6.aynaott.com/kolkatatv/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-39d4-7fe5-9ad1-34b1e4fb98c9" tvg-name="beIN SPORTS" tvg-logo="" group-title="Ayna OTT Live",beIN SPORTS
+{'url': 'http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3b65-7872-a707-c2324a037cc9" tvg-name="Zoom TV" tvg-logo="" group-title="Ayna OTT Live",Zoom TV
+{'url': 'https://live.zoomnews.info/live/Zoom_playlist.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019efa45-dee3-7460-a2d9-6add12132b2e" tvg-name="Zee Bangla Sonar" tvg-logo="" group-title="Ayna OTT Live",Zee Bangla Sonar
+{'url': 'https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-39a1-7d4a-a6a4-08e2754485cd" tvg-name="Zee 24 Ghanta" tvg-logo="" group-title="Ayna OTT Live",Zee 24 Ghanta
+{'url': 'https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3bcb-7259-a57e-958eec7798ae" tvg-name="YTV" tvg-logo="" group-title="Ayna OTT Live",YTV
+{'url': 'https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-39e6-7f60-8105-3113bd407d09" tvg-name="Xtrem Sports" tvg-logo="" group-title="Ayna OTT Live",Xtrem Sports
+{'url': 'https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3bf0-7393-9a87-366242140422" tvg-name="World War TV" tvg-logo="" group-title="Ayna OTT Live",World War TV
+{'url': 'https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3bee-7f21-b4a5-cf84f86442b7" tvg-name="World Muzzik" tvg-logo="" group-title="Ayna OTT Live",World Muzzik
+{'url': 'https://muzzik-live.morescreens.com/mts-5/playlist.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3baa-7783-bf80-236068ce4990" tvg-name="Wion" tvg-logo="" group-title="Ayna OTT Live",Wion
+{'url': 'https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-39b9-7313-8fe1-ced68786a50b" tvg-name="Willow TV" tvg-logo="" group-title="Ayna OTT Live",Willow TV
+{'url': 'https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="01a1354e-5a92-70b0-b6d5-9a089d27c2c7" tvg-name="Willow Sports 2" tvg-logo="" group-title="Ayna OTT Live",Willow Sports 2
+{'url': 'https://tvsen7.aynaott.com/Sports1/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3b9e-7f03-a443-6f49d828ee88" tvg-name="Wild TV" tvg-logo="" group-title="Ayna OTT Live",Wild TV
+{'url': 'https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3c00-718e-9487-01b8e71feb2d" tvg-name="Weather SPY" tvg-logo="" group-title="Ayna OTT Live",Weather SPY
+{'url': 'https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019efa45-e069-7f80-a70f-34d4f01b80ea" tvg-name="VTV USA" tvg-logo="" group-title="Ayna OTT Live",VTV USA
+{'url': 'https://tvsen7.aynaott.com/vtvusa/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3bc5-70aa-b7d9-555b10cb474f" tvg-name="   	 USA TV" tvg-logo="" group-title="Ayna OTT Live",   	 USA TV
+{'url': 'https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-39b9-7313-8fe1-ced68786a50b" tvg-name="Willow TV" tvg-logo="" group-title="Ayna OTT Live",Willow TV
+{'url': 'https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="01a1354e-5a92-70b0-b6d5-9a089d27c2c7" tvg-name="Willow Sports 2" tvg-logo="" group-title="Ayna OTT Live",Willow Sports 2
+{'url': 'https://tvsen7.aynaott.com/Sports1/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3962-77a1-8f50-c541bb5a02c7" tvg-name="T Sports HD" tvg-logo="" group-title="Ayna OTT Live",T Sports HD
+{'url': 'https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-39f3-7ee4-82c5-582a3f749674" tvg-name="DD Sports" tvg-logo="" group-title="Ayna OTT Live",DD Sports
+{'url': 'https://cdn-6.pishow.tv/live/13/master.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3960-7cad-a051-6b707a28890b" tvg-name="Deepto TV" tvg-logo="" group-title="Ayna OTT Live",Deepto TV
+{'url': 'https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-397c-7793-918c-acbc11004934" tvg-name="NEXUS TV" tvg-logo="" group-title="Ayna OTT Live",NEXUS TV
+{'url': 'https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3937-7e18-be86-47d2a7a4ab2d" tvg-name="Test Live TV" tvg-logo="" group-title="Ayna OTT Live",Test Live TV
+{'url': 'https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-39a1-7d4a-a6a4-08e2754485cd" tvg-name="Zee 24 Ghanta" tvg-logo="" group-title="Ayna OTT Live",Zee 24 Ghanta
+{'url': 'https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-39a7-750d-a029-c9ac049ccb6a" tvg-name="R Plus" tvg-logo="" group-title="Ayna OTT Live",R Plus
+{'url': 'https://tvsen6.aynaott.com/Xehy3ZqZ/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019efa45-d907-74c0-b05a-87e38a871d8b" tvg-name="Bein Sports 1" tvg-logo="" group-title="Ayna OTT Live",Bein Sports 1
+{'url': 'https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-39e0-76f0-9bff-68df0dc12665" tvg-name="TSN 1" tvg-logo="" group-title="Ayna OTT Live",TSN 1
+{'url': 'https://tvsen7.aynaott.com/tsn1/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3baa-7783-bf80-236068ce4990" tvg-name="Wion" tvg-logo="" group-title="Ayna OTT Live",Wion
+{'url': 'https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3a34-7633-bc80-6c35f6723bca" tvg-name="PBS Kids" tvg-logo="" group-title="Ayna OTT Live",PBS Kids
+{'url': 'https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3a28-7902-88ee-0f42afbc7d50" tvg-name="TVCARiB Kids & Teens" tvg-logo="" group-title="Ayna OTT Live",TVCARiB Kids & Teens
+{'url': 'https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3a32-7736-87ef-a8588bdc159f" tvg-name="Kids TV" tvg-logo="" group-title="Ayna OTT Live",Kids TV
+{'url': 'http://origin5.mediacdn.ru/live/kidstv/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3a22-7b68-b8af-67fe79a563f0" tvg-name="Family JR" tvg-logo="" group-title="Ayna OTT Live",Family JR
+{'url': 'https://tvsen3.aynaott.com/25FZdZrX/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3a26-7aa1-b461-6ac35c734b7e" tvg-name="Teen Nick" tvg-logo="" group-title="Ayna OTT Live",Teen Nick
+{'url': 'https://tvsen7.aynaott.com/teennick/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3a1e-7c94-91e5-6b6755d5ab6b" tvg-name="Disney Channel" tvg-logo="" group-title="Ayna OTT Live",Disney Channel
+{'url': 'https://tvsen7.aynaott.com/disney/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3a20-717e-9c8c-9e1deaefbd75" tvg-name="Disney XD" tvg-logo="" group-title="Ayna OTT Live",Disney XD
+{'url': 'https://tvsen5.aynaott.com/disneyxd/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3a1c-7a97-a58d-01d956ebcfe9" tvg-name="Discovery Family" tvg-logo="" group-title="Ayna OTT Live",Discovery Family
+{'url': 'https://tvsen5.aynaott.com/discoveryfamily/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019efa45-e1d7-7ec0-9c22-0a0402618ba8" tvg-name="SKY CINEMA ANIMATION" tvg-logo="" group-title="Ayna OTT Live",SKY CINEMA ANIMATION
+{'url': 'https://tvsen7.aynaott.com/skycinemanimation/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3a2a-7029-93bc-c12049a5d8d9" tvg-name="Dios Te Ve Kids" tvg-logo="" group-title="Ayna OTT Live",Dios Te Ve Kids
+{'url': 'https://s.emisoras.tv:8081/diostevekids/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3a2c-791d-bed4-1a70e99b3858" tvg-name="Moonbug Kids" tvg-logo="" group-title="Ayna OTT Live",Moonbug Kids
+{'url': 'https://moonbug-rokuus.amagi.tv/playlist.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019de785-3a2e-7cc6-ae53-9a7700f7b056" tvg-name="3ABN Kids" tvg-logo="" group-title="Ayna OTT Live",3ABN Kids
+{'url': 'https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019efa45-e9a4-7c81-b8bd-efdeb31d84ec" tvg-name="TVC Arabic Kids" tvg-logo="" group-title="Ayna OTT Live",TVC Arabic Kids
+{'url': 'https://tvsen6.aynaott.com/TVCArabicKids/index.m3u8', 'urls': None}
+#EXTINF:-1 tvg-id="019efa45-e9d9-7110-bbb8-6481d87d0bdb" tvg-name="Kids Pang TV" tvg-logo="" group-title="Ayna OTT Live",Kids Pang TV
+{'url': 'https://tvsen6.aynaott.com/KidsPrangTV/index.m3u8', 'urls': None}

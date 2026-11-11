@@ -1,0 +1,576 @@
+{
+    "updated_at": "2026-11-11T11:14:43.872479+06:00",
+    "total_channels": 57,
+    "channels": [
+        {
+            "id": "01a1aa1f-9605-7019-975d-355265a9aa2d",
+            "name": "Hum TV",
+            "link": {
+                "url": "https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "01a1354e-5a92-70b0-b6d5-9a089d27c2c7",
+            "name": "Willow Sports 2",
+            "link": {
+                "url": "https://tvsen7.aynaott.com/Sports1/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "01a11291-2c1a-72fb-bf2d-bf03de6e974d",
+            "name": "Sportv",
+            "link": {
+                "url": "https://tvsen7.aynaott.com/shagor-backup/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019f9d1e-903a-70f7-b217-aabdbdc97163",
+            "name": "Channel 52",
+            "link": {
+                "url": "https://tvsen6.aynaott.com/channel52/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019f4169-db74-7378-a418-b462842662d0",
+            "name": "And Pictures HD",
+            "link": {
+                "url": "https://tvsen6.aynaott.com/andpictureshd/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019f401f-3897-7291-8783-ed9b4301df6e",
+            "name": "Pitaara TV",
+            "link": {
+                "url": "https://tvsen6.aynaott.com/pitaara/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019f400c-f681-70a8-a70f-9858e64716be",
+            "name": "Amc",
+            "link": {
+                "url": "https://tvsen6.aynaott.com/amc/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019f2cfa-a46a-708d-9eac-b0b6b4a4733d",
+            "name": "HiDost",
+            "link": {
+                "url": "https://tvsen6.aynaott.com/6XDrdRHa/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019f2cd2-d14d-7057-9d30-55cfb742995a",
+            "name": "Colors Bangla",
+            "link": {
+                "url": "https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019efa45-ef0a-7e72-86c1-af820f1f22e7",
+            "name": "ATN Bangla",
+            "link": {
+                "url": "https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019efa45-ebae-74d0-80f3-0aaa66928bae",
+            "name": "Dubai Sports 1",
+            "link": {
+                "url": "https://tvsen6.aynaott.com/dubaisports1/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019efa45-eb97-7633-b4b2-682cef878a7e",
+            "name": "Talk Sport",
+            "link": {
+                "url": "https://tvsen6.aynaott.com/talkSPORT/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019efa45-eb56-7241-b7d5-ebb6c8209ebb",
+            "name": "Marquee Sports Network",
+            "link": {
+                "url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019efa45-eb40-78e2-b686-754a26ad8118",
+            "name": "More Then Sports TV",
+            "link": {
+                "url": "https://tvsen6.aynaott.com/mtstv/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019efa45-ea1e-7e50-b2fd-32ea3e75ec8c",
+            "name": "BTV NATIONAL HD",
+            "link": {
+                "url": "https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-39a3-74dd-8ef6-fbe0295e1222",
+            "name": "kolkata TV",
+            "link": {
+                "url": "https://tvsen6.aynaott.com/kolkatatv/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-39d4-7fe5-9ad1-34b1e4fb98c9",
+            "name": "beIN SPORTS",
+            "link": {
+                "url": "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3b65-7872-a707-c2324a037cc9",
+            "name": "Zoom TV",
+            "link": {
+                "url": "https://live.zoomnews.info/live/Zoom_playlist.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019efa45-dee3-7460-a2d9-6add12132b2e",
+            "name": "Zee Bangla Sonar",
+            "link": {
+                "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-39a1-7d4a-a6a4-08e2754485cd",
+            "name": "Zee 24 Ghanta",
+            "link": {
+                "url": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3bcb-7259-a57e-958eec7798ae",
+            "name": "YTV",
+            "link": {
+                "url": "https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-39e6-7f60-8105-3113bd407d09",
+            "name": "Xtrem Sports",
+            "link": {
+                "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3bf0-7393-9a87-366242140422",
+            "name": "World War TV",
+            "link": {
+                "url": "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3bee-7f21-b4a5-cf84f86442b7",
+            "name": "World Muzzik",
+            "link": {
+                "url": "https://muzzik-live.morescreens.com/mts-5/playlist.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3baa-7783-bf80-236068ce4990",
+            "name": "Wion",
+            "link": {
+                "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-39b9-7313-8fe1-ced68786a50b",
+            "name": "Willow TV",
+            "link": {
+                "url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "01a1354e-5a92-70b0-b6d5-9a089d27c2c7",
+            "name": "Willow Sports 2",
+            "link": {
+                "url": "https://tvsen7.aynaott.com/Sports1/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3b9e-7f03-a443-6f49d828ee88",
+            "name": "Wild TV",
+            "link": {
+                "url": "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3c00-718e-9487-01b8e71feb2d",
+            "name": "Weather SPY",
+            "link": {
+                "url": "https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019efa45-e069-7f80-a70f-34d4f01b80ea",
+            "name": "VTV USA",
+            "link": {
+                "url": "https://tvsen7.aynaott.com/vtvusa/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3bc5-70aa-b7d9-555b10cb474f",
+            "name": "   \t USA TV",
+            "link": {
+                "url": "https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-39b9-7313-8fe1-ced68786a50b",
+            "name": "Willow TV",
+            "link": {
+                "url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "01a1354e-5a92-70b0-b6d5-9a089d27c2c7",
+            "name": "Willow Sports 2",
+            "link": {
+                "url": "https://tvsen7.aynaott.com/Sports1/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3962-77a1-8f50-c541bb5a02c7",
+            "name": "T Sports HD",
+            "link": {
+                "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-39f3-7ee4-82c5-582a3f749674",
+            "name": "DD Sports",
+            "link": {
+                "url": "https://cdn-6.pishow.tv/live/13/master.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3960-7cad-a051-6b707a28890b",
+            "name": "Deepto TV",
+            "link": {
+                "url": "https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-397c-7793-918c-acbc11004934",
+            "name": "NEXUS TV",
+            "link": {
+                "url": "https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3937-7e18-be86-47d2a7a4ab2d",
+            "name": "Test Live TV",
+            "link": {
+                "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-39a1-7d4a-a6a4-08e2754485cd",
+            "name": "Zee 24 Ghanta",
+            "link": {
+                "url": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-39a7-750d-a029-c9ac049ccb6a",
+            "name": "R Plus",
+            "link": {
+                "url": "https://tvsen6.aynaott.com/Xehy3ZqZ/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019efa45-d907-74c0-b05a-87e38a871d8b",
+            "name": "Bein Sports 1",
+            "link": {
+                "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-39e0-76f0-9bff-68df0dc12665",
+            "name": "TSN 1",
+            "link": {
+                "url": "https://tvsen7.aynaott.com/tsn1/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3baa-7783-bf80-236068ce4990",
+            "name": "Wion",
+            "link": {
+                "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3a34-7633-bc80-6c35f6723bca",
+            "name": "PBS Kids",
+            "link": {
+                "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3a28-7902-88ee-0f42afbc7d50",
+            "name": "TVCARiB Kids & Teens",
+            "link": {
+                "url": "https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3a32-7736-87ef-a8588bdc159f",
+            "name": "Kids TV",
+            "link": {
+                "url": "http://origin5.mediacdn.ru/live/kidstv/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3a22-7b68-b8af-67fe79a563f0",
+            "name": "Family JR",
+            "link": {
+                "url": "https://tvsen3.aynaott.com/25FZdZrX/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3a26-7aa1-b461-6ac35c734b7e",
+            "name": "Teen Nick",
+            "link": {
+                "url": "https://tvsen7.aynaott.com/teennick/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3a1e-7c94-91e5-6b6755d5ab6b",
+            "name": "Disney Channel",
+            "link": {
+                "url": "https://tvsen7.aynaott.com/disney/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3a20-717e-9c8c-9e1deaefbd75",
+            "name": "Disney XD",
+            "link": {
+                "url": "https://tvsen5.aynaott.com/disneyxd/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3a1c-7a97-a58d-01d956ebcfe9",
+            "name": "Discovery Family",
+            "link": {
+                "url": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019efa45-e1d7-7ec0-9c22-0a0402618ba8",
+            "name": "SKY CINEMA ANIMATION",
+            "link": {
+                "url": "https://tvsen7.aynaott.com/skycinemanimation/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3a2a-7029-93bc-c12049a5d8d9",
+            "name": "Dios Te Ve Kids",
+            "link": {
+                "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3a2c-791d-bed4-1a70e99b3858",
+            "name": "Moonbug Kids",
+            "link": {
+                "url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019de785-3a2e-7cc6-ae53-9a7700f7b056",
+            "name": "3ABN Kids",
+            "link": {
+                "url": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019efa45-e9a4-7c81-b8bd-efdeb31d84ec",
+            "name": "TVC Arabic Kids",
+            "link": {
+                "url": "https://tvsen6.aynaott.com/TVCArabicKids/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        },
+        {
+            "id": "019efa45-e9d9-7110-bbb8-6481d87d0bdb",
+            "name": "Kids Pang TV",
+            "link": {
+                "url": "https://tvsen6.aynaott.com/KidsPrangTV/index.m3u8",
+                "urls": null
+            },
+            "logo": "",
+            "category": "Ayna OTT Live"
+        }
+    ]
+}
