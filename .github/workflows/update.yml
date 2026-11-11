@@ -1,9 +1,9 @@
 name: Auto Generate Ayna Playlist
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:  # এটি দিয়ে আপনি যখন খুশি ম্যানুয়ালি রান করতে পারবেন
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 */24 * * *'  # এটি দিয়ে প্রতি ২৪ ঘণ্টা পর পর অটোমেটিক রান হবে (প্রতি ২৪ ঘণ্টায় ১ বার)
 
 permissions:
   contents: write
@@ -21,7 +21,7 @@ jobs:
       - name: Checkout Private Script Repository
         uses: actions/checkout@v4
         with:
-          repository: shakil951/ayna-pvt-code
+          repository: shakil951/ayna-pvt-code  # আপনার প্রাইভেট রিপোজিটরির নাম
           token: ${{ secrets.PAT_TOKEN }}
           path: private_script_dir
 
