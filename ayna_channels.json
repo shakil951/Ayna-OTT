@@ -1,6 +1,6 @@
 {
-    "updated_at": "2026-11-16T11:51:07.537859+06:00",
-    "total_channels": 208,
+    "updated_at": "2026-11-17T13:28:33.369452+06:00",
+    "total_channels": 212,
     "channels": [
         {
             "id": "019efa45-ef0a-7e72-86c1-af820f1f22e7",
@@ -10,10 +10,10 @@
             "category": "Bangla"
         },
         {
-            "id": "019de785-3957-788f-a366-97dc52d1eced",
-            "name": "Bangla Vision",
-            "link": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8",
-            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_15c72a2cb794593278c9e7efe4df32d5_playmist_bangla_vision_400x400.jpg",
+            "id": "019de785-3970-7fa3-a850-d2ca0e07c1e0",
+            "name": "Channel 9",
+            "link": "https://tvsen6.aynaott.com/kajlsd57jnzxyo/index.m3u8",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_0f3afa480f77dd7d97d49b449a05f3fa_playmist_channel_9_400x400.jpg",
             "category": "Bangla"
         },
         {
@@ -24,10 +24,10 @@
             "category": "Bangla"
         },
         {
-            "id": "019de785-3986-7129-aee7-62a7ac202bec",
-            "name": "Gazi TV",
-            "link": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8",
-            "logo": "https://s3.aynaott.com/storage/d60be6284234186c03d07a4ad176bcb4",
+            "id": "019de785-3959-77e1-84fb-723fe5548b8a",
+            "name": "RTV",
+            "link": "https://tvsen5.aynaott.com/ba47dHpDk3Se/index.m3u8",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_d6c5ece652161d2d88ed547f00343687_playmist_rtv_400x400.jpg",
             "category": "Bangla"
         },
         {
@@ -73,13 +73,6 @@
             "category": "Channels"
         },
         {
-            "id": "019de785-3947-7f58-bf5b-525377fb71bd",
-            "name": "ATN News",
-            "link": "https://tvsen6.aynaott.com/da6WMXAk/index.m3u8",
-            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c788f2e0bc6f83a4fdde6022843368a_playmist_atn_news_400x400.jpg",
-            "category": "Channels"
-        },
-        {
             "id": "019de785-3c27-75af-aecc-b972908c76b3",
             "name": "Adventure Earth",
             "link": "https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8",
@@ -112,13 +105,6 @@
             "name": "And tv",
             "link": "https://tvsen6.aynaott.com/AndTV/index.m3u8",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_845fa61e4b31dbf35e442cd6037ed2e6_playmist_and_tv.jpg",
-            "category": "Channels"
-        },
-        {
-            "id": "019de785-396e-7c75-b530-cb197f010279",
-            "name": "Asian TV",
-            "link": "https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8",
-            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_a5ac9561e182c07073e46bc30b3c8cab_playmist_asian_tv.png",
             "category": "Channels"
         },
         {
@@ -161,6 +147,13 @@
             "name": "Channel 52",
             "link": "https://tvsen6.aynaott.com/channel52/index.m3u8",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-26/images_9b7bab426198d5e39dea4b494cad717b_playmist_channel52.jpg",
+            "category": "Channels"
+        },
+        {
+            "id": "019de785-3953-7390-925e-0b52e8d2cf6b",
+            "name": "Channel I",
+            "link": "https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-01/images_99c9ba1977777337bdc037f79ed921ea_playmist_channel_i_400x400.jpg",
             "category": "Channels"
         },
         {
@@ -217,6 +210,13 @@
             "name": "Disney XD",
             "link": "https://tvsen5.aynaott.com/disneyxd/index.m3u8",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_f02de913e3592f951e728234f2bef434_playmist_disney_xd_400x400.jpg",
+            "category": "Channels"
+        },
+        {
+            "id": "019de785-395b-7132-9cc9-b3571e766644",
+            "name": "ETV",
+            "link": "https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_0b5269c6ae6e8c382e43c2be02789c60_playmist_etv_400x400.jpg",
             "category": "Channels"
         },
         {
@@ -280,13 +280,6 @@
             "name": "Maasranga TV",
             "link": "https://tvsen6.aynaott.com/maasrangatv/index.m3u8",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_9a9da509523ff5fa2e65e262fe3d0125_playmist_maasranga_tv_400x400.jpg",
-            "category": "Channels"
-        },
-        {
-            "id": "019de785-3982-77f6-b5ed-24caa6edc4c8",
-            "name": "My TV",
-            "link": "https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8",
-            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_6131ede1b10602da29f1271fff0cda77_playmist_my_tv_400x400.jpg",
             "category": "Channels"
         },
         {
@@ -378,13 +371,6 @@
             "name": "Sony AATH",
             "link": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_6b500d2d4c6979f37f2854565a68bcf0_playmist_sony_aath_logowine.jpg",
-            "category": "Channels"
-        },
-        {
-            "id": "019de785-3a07-7ed8-95b9-91d3fcaea7c0",
-            "name": "Sports Fishing TV",
-            "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8",
-            "logo": "https://s3.aynaott.com/storage/52e9f8f5c78d59a205f0d2bd056d0869",
             "category": "Channels"
         },
         {
@@ -507,13 +493,6 @@
             "category": "English"
         },
         {
-            "id": "019de785-3bac-72a7-b7ff-9d20d69bb27d",
-            "name": "Nat Geo TV",
-            "link": "https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8",
-            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_25b786047244481532eb505dfba85580_playmist_nat_geo_tv_400x400.jpg",
-            "category": "English"
-        },
-        {
             "id": "019de785-3c29-7f47-bacb-ad12c787ba00",
             "name": "OAN ",
             "link": "https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8",
@@ -598,6 +577,13 @@
             "category": "General"
         },
         {
+            "id": "019de785-3947-7f58-bf5b-525377fb71bd",
+            "name": "ATN News",
+            "link": "https://tvsen6.aynaott.com/da6WMXAk/index.m3u8",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c788f2e0bc6f83a4fdde6022843368a_playmist_atn_news_400x400.jpg",
+            "category": "General"
+        },
+        {
             "id": "019de785-3bec-7c6d-aa44-9cee1291ec86",
             "name": "AXS",
             "link": "https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8",
@@ -616,6 +602,13 @@
             "name": "Animal Planet HD",
             "link": "https://tvsen3.aynaott.com/wpa56Uk3/index.m3u8",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_a49ebd8c1eabd8e7cc20297a0fda92f5_playmist_animal_planet_hd_400x400.jpg",
+            "category": "General"
+        },
+        {
+            "id": "019de785-396e-7c75-b530-cb197f010279",
+            "name": "Asian TV",
+            "link": "https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_a5ac9561e182c07073e46bc30b3c8cab_playmist_asian_tv.png",
             "category": "General"
         },
         {
@@ -675,6 +668,13 @@
             "category": "General"
         },
         {
+            "id": "019de785-3957-788f-a366-97dc52d1eced",
+            "name": "Bangla Vision",
+            "link": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_15c72a2cb794593278c9e7efe4df32d5_playmist_bangla_vision_400x400.jpg",
+            "category": "General"
+        },
+        {
             "id": "019de785-397e-718c-b601-253c31a282eb",
             "name": "Bijoy TV",
             "link": "https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8",
@@ -686,13 +686,6 @@
             "name": "Boishakhi TV",
             "link": "https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_8a69251df11b66c4e85e7a2fe6d89286_playmist_boishakhi_tv_400x400.jpg",
-            "category": "General"
-        },
-        {
-            "id": "019de785-3b8c-7795-b739-15e0a02e5237",
-            "name": "CNBC TV",
-            "link": "https://tvsen6.aynaott.com/cnbc/index.m3u8",
-            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e67654cc3d37f4eda1a16709b2b88f6d_playmist_cnbc_tv_400x400.jpg",
             "category": "General"
         },
         {
@@ -721,6 +714,20 @@
             "name": "CP 24",
             "link": "https://tvsen6.aynaott.com/cp24/index.m3u8",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_eaacf02e8523f40c627b8234c614963d_playmist_cp_24_400x400.jpg",
+            "category": "General"
+        },
+        {
+            "id": "019de785-3943-7dff-ae3b-9b79fed284a3",
+            "name": "Channel 24",
+            "link": "https://tvsen6.aynaott.com/YrVDF8gujkdh/index.m3u8",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_82f2d197736c65ee983b3d691ad7c1f3_playmist_channel24.png",
+            "category": "General"
+        },
+        {
+            "id": "019de785-3968-7782-b69b-7c6151ae6fe1",
+            "name": "DBC News",
+            "link": "https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_f38ba3f3f90338a11e3004e52cf804af_playmist_dbc_news_400x400.jpg",
             "category": "General"
         },
         {
@@ -864,6 +871,13 @@
             "category": "General"
         },
         {
+            "id": "019de785-3986-7129-aee7-62a7ac202bec",
+            "name": "Gazi TV",
+            "link": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8",
+            "logo": "https://s3.aynaott.com/storage/d60be6284234186c03d07a4ad176bcb4",
+            "category": "General"
+        },
+        {
             "id": "019de785-3980-7029-a5ea-c1e27b34c6d7",
             "name": "Global TV",
             "link": "https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8",
@@ -896,6 +910,13 @@
             "name": "IBTV USA",
             "link": "https://tvsen7.aynaott.com/ibtvusa/index.m3u8",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_ea41ae173647bec89bc348a11f54d718_playmist_ibtv_usa_400x400.jpg",
+            "category": "General"
+        },
+        {
+            "id": "019de785-3945-77dc-81be-262720b600b9",
+            "name": "Jamuna TV",
+            "link": "https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4be60fcb499d59949c222f746ece58f4_playmist_jamuna_tv_400x400.jpg",
             "category": "General"
         },
         {
@@ -952,6 +973,13 @@
             "name": "Mohona TV",
             "link": "https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1c2c83a36e990c46964ce6ef25528d84_playmist_mohona_tv400x400.jpg",
+            "category": "General"
+        },
+        {
+            "id": "019de785-3982-77f6-b5ed-24caa6edc4c8",
+            "name": "My TV",
+            "link": "https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_6131ede1b10602da29f1271fff0cda77_playmist_my_tv_400x400.jpg",
             "category": "General"
         },
         {
@@ -1015,13 +1043,6 @@
             "name": "RDS Social TV",
             "link": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8",
             "logo": "https://s3.aynaott.com/storage/a98854ba711798a82c172f935482f22a",
-            "category": "General"
-        },
-        {
-            "id": "019de785-3959-77e1-84fb-723fe5548b8a",
-            "name": "RTV",
-            "link": "https://tvsen5.aynaott.com/ba47dHpDk3Se/index.m3u8",
-            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_d6c5ece652161d2d88ed547f00343687_playmist_rtv_400x400.jpg",
             "category": "General"
         },
         {
@@ -1099,6 +1120,13 @@
             "name": "Sports First TV",
             "link": "https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1e8f6268734530db4020f0af078ed8cb_playmist_sports_first400x400.jpg",
+            "category": "General"
+        },
+        {
+            "id": "019de785-3a07-7ed8-95b9-91d3fcaea7c0",
+            "name": "Sports Fishing TV",
+            "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8",
+            "logo": "https://s3.aynaott.com/storage/52e9f8f5c78d59a205f0d2bd056d0869",
             "category": "General"
         },
         {
@@ -1319,17 +1347,10 @@
             "category": "News"
         },
         {
-            "id": "019de785-3943-7dff-ae3b-9b79fed284a3",
-            "name": "Channel 24",
-            "link": "https://tvsen6.aynaott.com/YrVDF8gujkdh/index.m3u8",
-            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_82f2d197736c65ee983b3d691ad7c1f3_playmist_channel24.png",
-            "category": "News"
-        },
-        {
-            "id": "019de785-3968-7782-b69b-7c6151ae6fe1",
-            "name": "DBC News",
-            "link": "https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8",
-            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_f38ba3f3f90338a11e3004e52cf804af_playmist_dbc_news_400x400.jpg",
+            "id": "019de785-3b8c-7795-b739-15e0a02e5237",
+            "name": "CNBC TV",
+            "link": "https://tvsen6.aynaott.com/cnbc/index.m3u8",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e67654cc3d37f4eda1a16709b2b88f6d_playmist_cnbc_tv_400x400.jpg",
             "category": "News"
         },
         {
@@ -1347,10 +1368,10 @@
             "category": "News"
         },
         {
-            "id": "019de785-3945-77dc-81be-262720b600b9",
-            "name": "Jamuna TV",
-            "link": "https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8",
-            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4be60fcb499d59949c222f746ece58f4_playmist_jamuna_tv_400x400.jpg",
+            "id": "019de785-3a3c-71e5-8c69-161f0f895a02",
+            "name": "Republic TV Bharat",
+            "link": "https://tvsen6.aynaott.com/faGd3tuq/index.m3u8",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c126a1f2ceda33dad15b71f1d3210b44_playmist_republic_tv_bharat_400x400.jpg",
             "category": "News"
         },
         {
@@ -1407,6 +1428,13 @@
             "name": "ESPN",
             "link": "https://tvsen7.aynaott.com/espn/index.m3u8",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",
+            "category": "Sports"
+        },
+        {
+            "id": "019efa45-d8f0-7732-8263-6030073a34fe",
+            "name": "FIFA+",
+            "link": "https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/bcc9699c8a3c8faf509c92e9280e576f.jpg",
             "category": "Sports"
         },
         {
