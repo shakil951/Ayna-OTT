@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-25T13:55:49.466882+06:00",
+    "updated_at": "2026-11-27T13:47:04.098095+06:00",
     "total_channels": 233,
     "channels": [
         {
@@ -119,6 +119,13 @@
             "name": "SA TV",
             "link": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b6f2363fef23e117f9a13b7c185ce26c_playmist_satv.png",
+            "category": "Bangla"
+        },
+        {
+            "id": "019de785-393b-7285-8d1f-87bdfc695eb2",
+            "name": "Sangeet Bangla",
+            "link": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_68b8c3bbc8b629bbc2c00880b4546d74_playmist_sangeet_bangla400x400.jpg",
             "category": "Bangla"
         },
         {
@@ -451,6 +458,13 @@
             "category": "Channels"
         },
         {
+            "id": "019de785-3bb3-70ca-b613-205c5c22da6b",
+            "name": "Discovery Science",
+            "link": "https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_b4a182b0d66620e67de189fa25763c3e_playmist_discovery_science400x400.jpg",
+            "category": "Channels"
+        },
+        {
             "id": "019de785-3a1e-7c94-91e5-6b6755d5ab6b",
             "name": "Disney Channel",
             "link": "https://tvsen7.aynaott.com/disney/index.m3u8",
@@ -511,13 +525,6 @@
             "name": "Enter 10 Bangla",
             "link": "https://live-bangla.akamaized.net/liveabr/playlist.m3u8",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_fc0d1242765efd4c1494fbfe4ff65c7a_playmist_enter_10_bangla400x400.jpg",
-            "category": "Channels"
-        },
-        {
-            "id": "019de785-3bc7-7ba1-b72d-13662809fa0b",
-            "name": "FX TV",
-            "link": "https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8",
-            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_aac39f78c7d0e3df940fda4299217e86_playmist_fx_tv400x400.jpg",
             "category": "Channels"
         },
         {
@@ -644,6 +651,13 @@
             "name": "Kids TV",
             "link": "http://origin5.mediacdn.ru/live/kidstv/index.m3u8",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_a183518a2fa3c3364313a8d04ff2feb4_playmist_pbs_kids_400x400.jpg",
+            "category": "Channels"
+        },
+        {
+            "id": "019de785-3bd7-7f2e-bd91-7b0fca28970f",
+            "name": "LAFF TV",
+            "link": "https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_4d77b602c1d8bbdb885ddc7e186d440e_playmist_laff_tv_400x400.jpg",
             "category": "Channels"
         },
         {
@@ -892,13 +906,6 @@
             "category": "Channels"
         },
         {
-            "id": "019de785-39e0-76f0-9bff-68df0dc12665",
-            "name": "TSN 1",
-            "link": "https://tvsen7.aynaott.com/tsn1/index.m3u8",
-            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_d165c628a0db9286da3914ca916a4971_playmist_tsn_1400x400.jpg",
-            "category": "Channels"
-        },
-        {
             "id": "019de785-3a3a-76b6-a529-d6cfa50a835f",
             "name": "TV9 Bharatvarsh",
             "link": "https://tvsen3.aynaott.com/v9NqPxRd/index.m3u8",
@@ -1046,17 +1053,17 @@
             "category": "English"
         },
         {
-            "id": "019de785-3bb3-70ca-b613-205c5c22da6b",
-            "name": "Discovery Science",
-            "link": "https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8",
-            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_b4a182b0d66620e67de189fa25763c3e_playmist_discovery_science400x400.jpg",
-            "category": "English"
-        },
-        {
             "id": "019de785-3bae-7f5e-a48a-e01313b0913f",
             "name": "Discovery Turbo",
             "link": "https://tvsen3.aynaott.com/9tYGMmMS/index.m3u8",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_fc6169a315d90d5bdd68fdfe4e35d2c1_playmist_discovery_turbo_400x400.jpg",
+            "category": "English"
+        },
+        {
+            "id": "019de785-3bc7-7ba1-b72d-13662809fa0b",
+            "name": "FX TV",
+            "link": "https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_aac39f78c7d0e3df940fda4299217e86_playmist_fx_tv400x400.jpg",
             "category": "English"
         },
         {
@@ -1071,13 +1078,6 @@
             "name": "HBO 2",
             "link": "https://tvsen3.aynaott.com/u3NjUrny/index.m3u8",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_2e95a01c1a6b96b71670420cfd9d8cbc_playmist_hbo_2400x400.jpg",
-            "category": "English"
-        },
-        {
-            "id": "019de785-3bd7-7f2e-bd91-7b0fca28970f",
-            "name": "LAFF TV",
-            "link": "https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8",
-            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_4d77b602c1d8bbdb885ddc7e186d440e_playmist_laff_tv_400x400.jpg",
             "category": "English"
         },
         {
@@ -1172,13 +1172,6 @@
             "category": "Football"
         },
         {
-            "id": "019de785-3962-77a1-8f50-c541bb5a02c7",
-            "name": "T Sports HD",
-            "link": "https://tvsen5.aynaott.com/TnMn5kZz8/index.m3u8",
-            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_8b38d691dfaf072e6c964dea814a44ba_playmist_t_sports_hd400x400.jpg",
-            "category": "Football"
-        },
-        {
             "id": "019de785-3995-7e6d-9338-21fd1417ccee",
             "name": "G series",
             "link": "https://vods2.aynaott.com/gseriesDrama/index.m3u8",
@@ -1225,6 +1218,13 @@
             "name": "Dhamaal",
             "link": "https://tvsen6.aynascope.com/F4Z6es8E/index.m3u8",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_8f0ba646b7ddfa1aa601dca63f16129c_playmist_dhamaal_400x400.jpg",
+            "category": "Hindi"
+        },
+        {
+            "id": "019efa45-e724-7ca0-90fd-8a837b01220c",
+            "name": "Goldmines Bollywood",
+            "link": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/11e8e13a9149c40a88859cdc0fd5f6c3.jpg",
             "category": "Hindi"
         },
         {
@@ -1333,13 +1333,6 @@
             "category": "Kids"
         },
         {
-            "id": "019efa45-e724-7ca0-90fd-8a837b01220c",
-            "name": "Goldmines Bollywood",
-            "link": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/11e8e13a9149c40a88859cdc0fd5f6c3.jpg",
-            "category": "Movies"
-        },
-        {
             "id": "019de785-3a57-7892-b06f-caf61a17d1cb",
             "name": "Goldmines Movies",
             "link": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
@@ -1386,13 +1379,6 @@
             "name": "Music India",
             "link": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_293d590e382ae09a9d8028c4c56d4ee3_playmist_music_india_400x400.jpg",
-            "category": "Music"
-        },
-        {
-            "id": "019de785-393b-7285-8d1f-87bdfc695eb2",
-            "name": "Sangeet Bangla",
-            "link": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_68b8c3bbc8b629bbc2c00880b4546d74_playmist_sangeet_bangla400x400.jpg",
             "category": "Music"
         },
         {
@@ -1596,6 +1582,20 @@
             "name": "PTV Sports",
             "link": "https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg",
+            "category": "Sports"
+        },
+        {
+            "id": "019de785-3962-77a1-8f50-c541bb5a02c7",
+            "name": "T Sports HD",
+            "link": "https://tvsen5.aynaott.com/TnMn5kZz8/index.m3u8",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_8b38d691dfaf072e6c964dea814a44ba_playmist_t_sports_hd400x400.jpg",
+            "category": "Sports"
+        },
+        {
+            "id": "019de785-39e0-76f0-9bff-68df0dc12665",
+            "name": "TSN 1",
+            "link": "https://tvsen7.aynaott.com/tsn1/index.m3u8",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_d165c628a0db9286da3914ca916a4971_playmist_tsn_1400x400.jpg",
             "category": "Sports"
         },
         {
